@@ -2,7 +2,8 @@
 
 Welcome to my Steam project, completed as part of the Jedha Fullstack Data program. This notebook explores the Steam game marketplace using a rich dataset of over 54,000 titles, with the goal of uncovering trends in pricing, popularity, platform distribution, and estimated revenue.
 
-🔗 View the full notebook on Databricks: Steam_Project_AH_18_sept_2025
+🔗 View the full notebook on Databricks: Steam_Project_AH_18_sept_2025:
+https://dbc-5e06cba2-8c74.cloud.databricks.com/editor/notebooks/4036110302751698?o=2931884495904849
 
 
 # 📌 Project Objectives
